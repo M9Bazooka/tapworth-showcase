@@ -11,7 +11,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-**Live:** [tapworth.co.uk](https://tapworth.co.uk) | **Role:** Founder and sole engineer, Tapworth Technologies Ltd (UK)
+**Live:** [tapworth.co.uk](https://tapworth.co.uk) | **Role:** Founding engineer, Verris Technologies Ltd (UK). Tapworth is Verris's in-house product
 
 > **Where it actually is:** the platform is built and deployed. No merchant pilot has run yet, and there are no users or revenue. Founding pilot shops are next.
 >
